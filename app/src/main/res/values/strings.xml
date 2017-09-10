@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="test">TEST</string>
+    <string name="clear_display">Clear display</string>
+</resources>
